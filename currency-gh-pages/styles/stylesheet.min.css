@@ -225,3 +225,22 @@ a{
 		display:none;
 	}
 }
+
+#calc{
+position:absolute;
+top:460px;
+right:300px;
+
+}
+#twitter{
+border-style: solid;
+position:absolute;
+bottom:2px;
+right:2px;
+height: 600px;
+width: 200px;
+
+
+}
+
+
